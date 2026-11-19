@@ -1,0 +1,14 @@
+{
+  "name": "investor-collective",
+  "version": "1.0.0",
+  "description": "Due diligence on private investments for Investor Collective members: research a sponsor and offering against SEC filings, court records, FINRA, sanctions lists and state registries, and get a graded report of facts.",
+  "author": {
+    "name": "Investor Collective",
+    "email": "members@investorcollective.io",
+    "url": "https://investorcollective.io"
+  },
+  "homepage": "https://investorcollective.io/research-with-claude",
+  "repository": "https://github.com/investor-collective/investor-collective-plugin",
+  "license": "MIT",
+  "keywords": ["due-diligence", "private-investments", "accredited-investors", "research", "sec-filings"]
+}

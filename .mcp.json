@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "investor-collective": {
+      "type": "http",
+      "url": "https://members.investorcollective.io/api/mcp/research"
+    }
+  }
+}
