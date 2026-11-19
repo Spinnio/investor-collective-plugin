@@ -10,5 +10,12 @@
   "homepage": "https://investorcollective.io/research-with-claude",
   "repository": "https://github.com/Spinnio/investor-collective-plugin",
   "license": "MIT",
-  "keywords": ["due-diligence", "private-investments", "accredited-investors", "research", "sec-filings"]
+  "keywords": [
+    "due-diligence",
+    "private-investments",
+    "accredited-investors",
+    "research",
+    "sec-filings"
+  ],
+  "privacyPolicyUrl": "https://investorcollective.io/privacy"
 }
