@@ -8,7 +8,7 @@
     "url": "https://investorcollective.io"
   },
   "homepage": "https://investorcollective.io/research-with-claude",
-  "repository": "https://github.com/investor-collective/investor-collective-plugin",
+  "repository": "https://github.com/Spinnio/investor-collective-plugin",
   "license": "MIT",
   "keywords": ["due-diligence", "private-investments", "accredited-investors", "research", "sec-filings"]
 }
