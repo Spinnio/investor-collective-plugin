@@ -17,5 +17,8 @@
     "research",
     "sec-filings"
   ],
-  "privacyPolicyUrl": "https://investorcollective.io/privacy"
+  "privacyPolicyUrl": "https://investorcollective.io/privacy",
+  "supportUrl": "mailto:members@investorcollective.io",
+  "documentationUrl": "https://investorcollective.io/research-with-claude",
+  "termsOfServiceUrl": "https://investorcollective.io/terms"
 }
